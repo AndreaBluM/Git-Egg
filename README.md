@@ -9,3 +9,11 @@ Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angul
 ## Languages
 -Spanish
 -English
+
+## Hobbies
+- Dancing: ...
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+
